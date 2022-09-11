@@ -1,17 +1,6 @@
 # Free-Fire (v1.0)
 > Free Fire Bot (requested by {BK}Mark
 
-**Description:**<br/>
-An advanced profanity filter Discord Bot framework built using the Discordia API and Luvit runtime environment
-
-## **[ FEATURES ]**
-* Pattern matching algorithm to detect variations of words, like "**asshole**", "**a$$hole**", "**assH0l3**" or "**a55h01e.**
-* Block bad words.
-* Kick, Ban or Timeout a user
-* Supports multiple languages
-* Warning System + Grace Period
-* Customizable messages
-
 **COMMANDS:**
 
 | Command          | Description                 |
