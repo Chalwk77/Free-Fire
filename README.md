@@ -133,7 +133,7 @@ return {
 ```
 
 
-## **Download at bottom of page**
+## [DOWNLOAD LINK](https://github.com/Chalwk77/Free-Fire/releases)
 ___
 
 # Installation:
