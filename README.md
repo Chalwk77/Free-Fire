@@ -1,5 +1,5 @@
 # Free-Fire (v1.0)
-> Free Fire Bot (requested by {BK}Mark
+> Free Fire Bot requested by {BK}Mark
 
 **COMMANDS:**
 
