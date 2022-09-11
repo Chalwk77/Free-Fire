@@ -101,7 +101,7 @@ return {
     -- Only people with the whitelist role can opt-in:
     -- Replace "xxxxxxxxxxxxxxxxxx" below with the role id.
     white_list = {
-        enabled = true,
+        enabled = false,
         role = "xxxxxxxxxxxxxxxxxx",
         error = "<@$user>**, you do not have permission to opt-in.**"
     },
